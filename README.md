@@ -4,7 +4,7 @@
 
 Desktop app for searching and playing tracks from Yandex Music.
 
-![Soundta app](./image_fon.png)
+<img src="./image_fon.png" alt="Soundta app" width="420" />
 
 ## Run
 
